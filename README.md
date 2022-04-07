@@ -1,4 +1,4 @@
-# Simple Numeral Converter
+# Numeral Converter
 
 ---
 
